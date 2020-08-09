@@ -160,7 +160,7 @@ single node.js site into a website with a content API that serves up the speaker
 
     - **Azure Container Registry**: Choose the registry created for you by the ARM deployment.
 
-    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/dockerregistry.png)
+    ![A screenshot of the Add Docker Registry Service Connection dialog with the values entered as described above.](media/docker-01.png)
 
 17. Select "OK".
 
