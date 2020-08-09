@@ -191,7 +191,7 @@ single node.js site into a website with a content API that serves up the speaker
 
     ```bash
     git remote add origin https://fabmedical-sol@dev.azure.com/fabmedical-sol/fabmedical/_git/content-web
-    git push -u origin --all
+    git push -u origin --all -f
     ```
 
 22. Now use the commands copied from Azure DevOps to configure the remote repository and push the code to Azure DevOps. When prompted for a password, paste your Azure DevOps Personal Access Token you copied earlier in this task.
